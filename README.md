@@ -13,6 +13,6 @@ Playlist1.json
 StreamingHistory_music_1.json  
 track_search_responses.json  
 
-**These files contain my private data so I have kept these files private for the sake of presenting the project on github.**
+**These files contain my private data so I have kept these files private for the sake of presenting the project on GitHub.**
 
 I am the only one who maintains this project and adds to it
